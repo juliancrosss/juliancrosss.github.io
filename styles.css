@@ -5,6 +5,9 @@ header{
       background-color:#6A6A6A;
       
 }
+section{
+      
+}
 article{
       border: 5px;
       border-color: #585858;
@@ -15,6 +18,9 @@ article{
 img{
       border-radius:500px;
       size:1px;
+}
+h2{
+      size:5em;
 }
 footer{
       background-color:#585858;
