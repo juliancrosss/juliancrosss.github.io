@@ -1,7 +1,13 @@
 body{
       background:#EEE;
 }
+header{
+      background-color:#6A6A6A;
+}
 img{
       border-radius:500px;
       size:1px;
+}
+footer{
+      background-color:#585858;
 }
