@@ -6,8 +6,9 @@ header{
       
 }
 article{
-      border-color: #585858 solid;
-      
+      border: 5px;
+      border-color: #585858;
+      border-style: solid;
       border-radius:300px;
       
 }
