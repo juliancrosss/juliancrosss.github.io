@@ -3,6 +3,13 @@ body{
 }
 header{
       background-color:#6A6A6A;
+      
+}
+article{
+      border-color: 5px solid;
+      
+      border-radius:300px;
+      
 }
 img{
       border-radius:500px;
