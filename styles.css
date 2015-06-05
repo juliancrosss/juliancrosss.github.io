@@ -21,6 +21,18 @@ section{
                 justify-content: space-around;
       
 }
+.flex-item {
+              background: tomato;
+              padding: 5px;
+              width: 200px;
+              height: 150px;
+              margin-top: 10px;
+              line-height: 150px;
+              color: white;
+              font-weight: bold;
+              font-size: 3em;
+              text-align: center;
+}
 img{
       display: flex;
       border-radius:500px;
