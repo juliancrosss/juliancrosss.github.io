@@ -1,5 +1,6 @@
 html{
       background: url("https://36.media.tumblr.com/65b9a99fe10ca7745c02d5a78b4552c4/tumblr_mt4sgmoDxa1siqfibo1_500.jpg") no-repeat center center fixed;
+      -webkit-background-size: cover;
 }
 body{
       
