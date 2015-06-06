@@ -1,7 +1,18 @@
 html{
       background: url("https://41.media.tumblr.com/e6da09a715024d03f6f962f57f8c0d15/tumblr_npihkrbGNq1s97snko1_540.jpg") no-repeat center center fixed;
       -webkit-background-size: cover;
+      
+        
+}     @media only screen and (max-width: 767px) {
+
+  body {
+
+    background-image: url("https://41.media.tumblr.com/e6da09a715024d03f6f962f57f8c0d15/tumblr_npihkrbGNq1s97snko1_540.jpg");
+
+  }
+
 }
+
 body{
       
 }
