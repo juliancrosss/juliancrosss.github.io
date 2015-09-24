@@ -1,1 +1,15 @@
 # juliancrosss.github.io 
+* https://daneden.github.io/animate.css/
+* https://robots.thoughtbot.com/css-animation-for-beginners
+* http://www.creativebloq.com/css3/animation-with-css3-712437
+* http://lab.hakim.se/radar/
+* http://slides.com/
+* http://lab.hakim.se/kontext/
+* http://lab.hakim.se/meny/
+* https://www.freshdesignweb.com/html5-css3-3d-examples-demo/
+* http://tympanus.net/Tutorials/CreativeCSS3AnimationMenus/index8.html
+* http://playdulla.com/
+* http://www.reverenddanger.com/
+* http://beta.theexpressiveweb.com/#!/css3-animations
+* http://andrew-hoyer.com/
+* http://www.hongkiat.com/blog/css3-animation-transition-demos/
